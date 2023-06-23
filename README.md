@@ -20,7 +20,7 @@ Hay redes sociales de todo tipo y para todo tipo de intereses.
 ## 2. Resumen del proyecto
 
 En este proyecto construímos una red social dedicada a una comunidad que puede crear, ver y compartir rutinas rápidas de ejercicio que pueden ser realizadas desde cualquier parte del mundo y en cualquier lugar, ya sea casa, jardín, parque o un centro deportivo.
-Para realizarlo creamos un proyecto en Firebas y en este una colección para guardar los post de los usuarios.
+Para realizarlo creamos un proyecto en Firebase y en este una colección para guardar los post de los usuarios.
 Para dar inicio a este proyecto utilizamos Figma para crear los prototipos de baja y alta fidelidad, también utilizamos Trello para definir las historias de usuario y para organizar, planificar y distribuir las tareas para cada sprint.
 
 ### Los objetivos generales de este proyecto son los siguientes
